@@ -1,5 +1,3 @@
-made by @therealsudz on github
-
 ## DISCLAIMER
 - Use only in ethical and educational purposes.
 
@@ -18,3 +16,7 @@ made by @therealsudz on github
 
 ## SCREENSHOT
 ![image](https://github.com/therealsudz/OSINT-multitool/blob/98b01db4a62aa04ffa93e088a023d57cdd3c07b5/functions.png)
+
+## AUTHOR
+- Made by @therealsudz on github.
+- Product under MIT License.
