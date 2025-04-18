@@ -1,0 +1,7 @@
+colorama
+requests
+typing_extensions
+python-whois
+faker
+bs4
+phonenumbers
