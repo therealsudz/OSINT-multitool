@@ -1,14 +1,14 @@
 made by @therealsudz on github
 
-##DISCLAIMER
+## DISCLAIMER
 -use only in ethical and educational purposes.
 
-##RELEASES
+## RELEASES
 -30 Stars for 2.0⭐ ❌
 -50 Stars for 2.5⭐ ❌
 
 
-##FUNCTIONS
+## FUNCTIONS
 -Username lookup
 -IP Adress generator
 -Check if email was breached
@@ -16,5 +16,5 @@ made by @therealsudz on github
 -Google Dork generator
 -Phone Number Lookup
 
-##SCREENSHOT
+## SCREENSHOT
 ![image](https://github.com/therealsudz/OSINT-multitool/blob/98b01db4a62aa04ffa93e088a023d57cdd3c07b5/functions.png)
